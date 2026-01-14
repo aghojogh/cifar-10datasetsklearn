@@ -1,4 +1,4 @@
-# CIFAR-10 Datast Classification by Basic Machine Learning
+# CIFAR-10 Dataset Classification by Basic Machine Learning
 
 An image classifier using basic machine learning (scikit-learn) on the CIFAR-10 dataset, featuring data preprocessing, model training, performance evaluation, and visualization with Python machine learning libraries.
 
